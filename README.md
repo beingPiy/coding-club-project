@@ -4,11 +4,11 @@
 Torrent Client is a team project built with the guidance of [**Coding Club, IIT Guwahati**](https://codingiitg.github.io/). It is torrent client built from scratch using [**Node.js**] to connect to tracker for downloading peers.
 
 ## Team Members
-Vipin Jaluthria
-Ria Singh
-Darshana Thakur
-Kanchan Bharti
-Piyush Pandey
+Vipin Jaluthria<br>
+Ria Singh<br>
+Darshana Thakur<br>
+Kanchan Bharti<br>
+Piyush Pandey<br>
 
 
 ## Application
