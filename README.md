@@ -12,7 +12,7 @@ Piyush Pandey<br>
  
 
 ## Functioning 
-Torrent Client connects tracker of torrent file via UDP connection and download peers once the connection is established.
+Torrent Client connects tracker of torrent file via UDP connection and download peers once the connection is established by TCP handshake.
 
 ## Development setup
 
