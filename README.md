@@ -1,7 +1,7 @@
 # coding-club-project
 
 ## What is this?
-Torrent Client is a team project built with the guidance of [**Coding Club, IIT Guwahati**](https://codingiitg.github.io/). It is torrent client built from scratch using [**Node.js**] to connect to tracker for downloading peers.
+Team project built with the guidance of [**Coding Club, IIT Guwahati**](https://codingiitg.github.io/). It is torrent client built from scratch using [**Node.js**] to connect to tracker for downloading data from peers.
 
 ## Team Members
 Vipin Jaluthria<br>
@@ -9,12 +9,9 @@ Ria Singh<br>
 Darshana Thakur<br>
 Kanchan Bharti<br>
 Piyush Pandey<br>
+ 
 
-
-## Application
-Torrent is something which every student make use of in daily life. I always wanted to know about its basics and coding part.  
-
-## What is the functioning of it?
+## Functioning 
 Torrent Client connects tracker of torrent file via UDP connection and download peers once the connection is established.
 
 ## Development setup
